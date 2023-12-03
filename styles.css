@@ -1,5 +1,5 @@
 body {
-    width: 500px;
+    width: 335px;
     margin: 4% auto;
     font-family: 'Source Sans Pro', sans-serif;
     letter-spacing: 5px;
@@ -16,11 +16,12 @@ body {
   .input {
     border: 1px solid #ddd;
     border-radius: 1px;
+    width: 280px;
     height: 60px;
     padding-right: 15px;
     padding-top: 10px;
     text-align: right;
-    margin-right: 6px;
+    margin-right: 21px;
     font-size: 2.5rem;
     overflow-x: auto;
     transition: all .2s ease-in-out;
@@ -36,7 +37,7 @@ body {
     display: inline-block;
     border: 1px solid #bbb;
     border-radius: 1px;
-    width: 80px;
+    width: 40px;
     text-align: center;
     padding: 10px;
     margin: 20px 4px 10px 0;
@@ -64,7 +65,7 @@ body {
     display: inline-block;
     border: 1px solid #ddd;
     border-radius: 1px;
-    width: 80px;
+    width: 40px;
     text-align: center;
     padding: 10px;
     margin: 10px 4px 10px 0;
@@ -88,7 +89,7 @@ body {
     display: inline-block;
     border: 1px solid #3079ED;
     border-radius: 1px;
-    width: 17%;
+    width: 40px;
     text-align: center;
     padding: 122px 10px 122px 10px;
     margin: 10px 6px 10px 0;
